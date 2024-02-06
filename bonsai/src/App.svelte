@@ -1,6 +1,6 @@
 <script>
-  import Navbar from "./lib/Navbar.svelte";
-  import Pricing from "./lib/Pricing.svelte";
+  import Navbar from "./assets/lib/Navbar.svelte";
+  import Pricing from "./assets/lib/Pricing.svelte";
   let active = false;
   let accordion = false;
 
